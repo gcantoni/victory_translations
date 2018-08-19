@@ -9,5 +9,7 @@ You can contribute by updating existing translation for your language or by addi
 - Mihov Mihail ( Bulgarian )
 - Omar OCD & Meet Shah ( Indian )
 - Domino ( Polish )
-- Tarik ( German )
+- Tarik ( German & Turkish )
+- Eki ( Turkish )
+- ATG Droid ( Czech )
 
