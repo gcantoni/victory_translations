@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slide0_title">Vítejte v Victory</string>
+    <string name="slide0_description">Dejte kompletně nový vzhled Vašemu telefonu použitím různých barevných kombinací! Oblíkněte Vaše oblíbené aplikace do černé s akcentní barvou dle Vašeho výběru! Victory momentálně podporuje 70+ aplikací a 20+ akcentních barev.</string>
+    <string name="slide1_title">Jak na to?</string>
+    <string name="slide1_description">Potřebujete Substratum theme engine jestliže chcete aplikovat toto téma. Můžete jej stáhnout z Obchodu Play a dle operačního systému, který používate budete možná potřebovat stáhnout placený doplněk.</string>
+    <string name="slide2_title">Pomoc</string>
+    <string name="slide2_description">První ze všeho se ujistěte, že jste si přečetli popisek aplikace v Obchodu Play a shlédli jste video, které je pro ni dostupné. V případě dalších otázek mne můžete kontaktovat na giorgio.canto98@gmail.com</string>
+    <string name="slide3_title">Gratuluji! To je vše.</string>
+    <string name="slide3_description">Děkuji Vám za koupi aplikace! Jestliže se Vám líbí, nezapomeňte zanechat hodnocení!\n\nVerze: 12.7 Stabilní\nVytvořeno s ❤️ v Itálii</string>
+    <string name="launch_dialog_title">Victory</string>
+    <string name="launch_dialog_content">Než začnete, nezapomeňte zvolit verzi vašeho Androidu v horní nabídce. Budete muset také provést pár dalších voleb pro některé aplikace. \n\nV případě problému s nějakou aplikací jen reaplikujte téma a restartujte zařízení. Jestliže potřebujete okamžitou podporu, tak se připojte do naší telegram skupiny.</string>
+    <string name="launch_dialog_positive">Další</string>
+    <string name="launch_dialog_negative">Podpora</string>
+    <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+</resources>
