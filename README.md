@@ -12,4 +12,5 @@ You can contribute by updating existing translation for your language or by addi
 - Tarik ( German & Turkish )
 - Eki ( Turkish )
 - ATG Droid ( Czech )
+- Sami Jildeh ( Arabic )
 
