@@ -20,4 +20,8 @@
     <string name="launch_dialog_negative">Support chat</string>
     <!-- Don't translate launch_dialog_negative_url -->
     <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+    
+    <!-- NEW STRINGS TO TRANSLATE IN YOUR LANGUAGE -->
+    <string name="launch_error">Substratum is not currently installed on your phone.</string>
+    <string name="download">Download</string>
 </resources>
