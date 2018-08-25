@@ -13,4 +13,7 @@
     <string name="launch_dialog_positive">Следващо</string>
     <string name="launch_dialog_negative">Онлайн помощ</string>
     <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+    <string name="launch_error">Substratum не е инсталиран на телефона Ви.</string>
+    <string name="download">Изтегляне</string>
+    <string name="attention">Внимание</string>
 </resources>
