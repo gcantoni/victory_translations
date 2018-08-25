@@ -7,10 +7,12 @@
     <string name="slide2_title">Aiuto</string>
     <string name="slide2_description">Prima di tutto assicurati d\'avere letto la descrizione del Play Store e di avere guardato il video disponibile. Per qualsiasi domanda puoi mandarmi un\'email all\'indirizzo giorgio.canto98@gmail.com</string>
     <string name="slide3_title">Congratulazioni! E\' tutto!</string>
-    <string name="slide3_description">Grazie per avere comprato l\'app. Se ti piace non dimenticare di lasciare una recensione!\n\nVersione: 12.7 Stabile\nFatto con ❤️ dall\'Italia</string>
+    <string name="slide3_description">Grazie per avere comprato l\'app. Se ti piace non dimenticare di lasciare una recensione!\n\nVersione: 13.1 Stabile\nFatto con ❤️ dall\'Italia</string>
     <string name="launch_dialog_title">Victory</string>
     <string name="launch_dialog_content">Prima d\'iniziare assicurati di selezionare la tua versione Android in cima. Dovrai scegliere anche delle opzioni per le varie app. \n\nSe hai dei problemi con un\'app riapplica il tema e riavvia. Se ti serve aiuto entra nel gruppo telegram per supporto instantaneo.</string>
     <string name="launch_dialog_positive">Avanti</string>
     <string name="launch_dialog_negative">Chat di supporto</string>
     <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+    <string name="launch_error">Substratum non è attualmente installato sul tuo telefono.</string>
+    <string name="download">Scarica</string>
 </resources>
