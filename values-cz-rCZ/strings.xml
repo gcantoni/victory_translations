@@ -13,4 +13,6 @@
     <string name="launch_dialog_positive">Další</string>
     <string name="launch_dialog_negative">Podpora</string>
     <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+    <string name="launch_error">Substratum momentálně není nainstalováno.</string>
+    <string name="download">Stáhnout</string>
 </resources>
