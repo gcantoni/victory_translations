@@ -7,10 +7,12 @@
         <string name="slide2_title">Справка</string>
         <string name="slide2_description">Прежде всего убедитесь, что вы прочитали описание приложения в Play Маркете и просмотрели видео на нем. По всем вопросам вы можете отправить мне электронное письмо по адресу giorgio.canto98@gmail.com </string>
         <string name="slide3_title">Поздравляем! Это все!</string>
-        <string name="slide3_description"> Благодарим вас за покупку приложения. Если вам это нравится, не забывайте оставлять отзыв! \n\nВерсия: 12.7 Стабильный \nСделать с ❤️ из Италии </string>
+        <string name="slide3_description"> Благодарим вас за покупку приложения. Если вам это нравится, не забывайте оставлять отзыв! \n\nВерсия: 13.0 Стабильный \nСделать с ❤️ из Италии </string>
         <string name="launch_dialog_title"> Victory </string>
-         <string name="launch_dialog_content"> Перед запуском не забудьте выбрать версию Android в верхнем меню. Вам также нужно будет сделать дополнительные варианты для некоторых приложений. \n\nЕсли у вас возникли проблемы с приложением, просто повторно примените тему и перезагрузитесь. Если вам нужна помощь, присоединитесь к группе телеграмм для мгновенной поддержки. </string>
-         <string name="launch_dialog_positive"> Далее </string>
-         <string name="launch_dialog_negative"> Чат поддержки </string>
-         <string name="launch_dialog_negative_url"> https://t.me/victorysubstratum </string>
+        <string name="launch_dialog_content"> Перед запуском не забудьте выбрать версию Android в верхнем меню. Вам также нужно будет сделать дополнительные варианты для некоторых приложений. \n\nЕсли у вас возникли проблемы с приложением, просто повторно примените тему и перезагрузитесь. Если вам нужна помощь, присоединитесь к группе телеграмм для мгновенной поддержки. </string>
+        <string name="launch_dialog_positive"> Далее </string>
+        <string name="launch_dialog_negative"> Чат поддержки </string>
+        <string name="launch_dialog_negative_url"> https://t.me/victorysubstratum </string>
+        <string name="launch_error">Substratum в настоящее время не установлен на вашем телефоне.</string>
+        <string name="download">Скачать</string>
 </resources>
