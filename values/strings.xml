@@ -24,4 +24,5 @@
     <!-- NEW STRINGS TO TRANSLATE IN YOUR LANGUAGE -->
     <string name="launch_error">Substratum is not currently installed on your phone.</string>
     <string name="download">Download</string>
+    <string name="attention">Attention</string>
 </resources>
