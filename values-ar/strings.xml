@@ -13,4 +13,7 @@
     <string name="launch_dialog_positive">التالي</string>
     <string name="launch_dialog_negative">دردشة الدعم</string>
     <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+    <string name="launch_error">Substratum ليس مثبتاً في جهازك حالياً</string>
+    <string name="download">تنزيل</string>
+    <string name="attention">إنتباه</string>
 </resources>
