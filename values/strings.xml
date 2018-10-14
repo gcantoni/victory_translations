@@ -18,6 +18,7 @@
     <string name="menu2">Hide Victory from launcher</string>
     <string name="menu3">Frequently asked questions</string>
     <string name="menu4">Contact me</string>
+    <string name="menu5">Leave a review</string>
     <string name="h_faq">Q: App X is force closing\nA: Uninstall and install again the overlay!\n\nQ: Res folder doesn\'t exist error\nA: Select your Android version in the top menu when you have opened the theme in Substratum.\n\nQ: Telegram theme doesn\'t apply\nA: Download telegram theme from my support group.</string>
     <string name="ok">Ok</string>
     <string name="hide_ok">Yes</string>
