@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="slide0_title">مرحبا بك في Victory</string>
-    <string name="slide0_description">اعط جهازك منظرا جديدا باستخدامك عدة مجموعات من الالوان. حول برامجك المفضلة الى اللون الاسود باستخدامك اللون المفضل للخطوط! Victory تدعم حاليا اكثر من 70 برنامج و اكثر من 20 لون خط.</string>
-    <string name="slide1_title">كيفية الاستخدام؟</string>
-    <string name="slide1_description"> اذا لديك الرغبة في استخدام هذا الموضوع يجب عليك استخدام برنامج Substratum.  بامكانك تنزيل البرنامج من بلاي ستور واعتمادا على نطام التشغيل لديك ستحتاج الى تنزيل برنامج مرافق غير مجاني. </string>
+    <string name="slide0_description">اعط جهازك منظراً جديداً باستخدامك عدة مجموعات من الالوان. حول برامجك المفضلة الى اللون الأسود بإستخدامك اللون المفضل للخطوط! Victory تدعم حاليا اكثر من 80 تطبيق و اكثر من 20 لون خط.</string>
+    <string name="slide1_title">كيف تستخدم السمة؟</string>
+    <string name="slide1_description">اذا لديك الرغبة في استخدام هذه السمة, يجب عليك استخدام تطبيق Substratum.  بامكانك تنزيله من بلاي ستور واعتمادا على نطام التشغيل لديك ستحتاج الى تنزيل تطبيق مرافق غير مجاني.</string>
     <string name="slide2_title">مساعدة</string>
-    <string name="slide2_description"> بداية تاكد من قراءة شرح البرنامج من البلاي ستور و شاهدت الفيديو الموجود هناك. لاي استفسار بامكانك ارسال ايميل الى giorgio.canto98@gmail.com </string>
+    <string name="slide2_description">أولاً تاكد من قراءة شرح التطبيق من البلاي ستور و شاهدت الفيديو الموجود هناك. لأي إستفسار بإمكانك إرسال إيميل الى giorgio.canto98@gmail.com</string>
     <string name="slide3_title">تهانينا! هذا كل شيء!</string>
-    <string name="slide3_description">شكرا لشراءك البرنامج. اذا احببته لا تنس ان تترك تعليقا و تقيم البرنامج!\n\nنسخة: 12.7 نهائية\صنعت ب❤️ من ايطاليا.</string>
-    <string name="launch_dialog_title">Victory</string>
-    <string name="launch_dialog_content">قبل ان تبدأ تذكر أن تختار نسخة الاندرويد في الاعلى. و سوف تحتاج الى القيام باختيارات اخرى لبرامج معينة. \n\nاذا صادفت اي مشكلة بأحد البرامج فقط أعد تنزيل الموضوع للبرنامج و اعد تشغيل جهازك. اذا اردت المساعدة التحق بالمجموعة في التلغرام للمساعدة السريعة.</string>
-    <string name="launch_dialog_positive">التالي</string>
-    <string name="launch_dialog_negative">دردشة الدعم</string>
-    <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+    <string name="slide3_description">شكرا لشراءك التطبيق. إذا أحببته لا تنس أن تترك تعليقاً و تقيّم التطبيق!\n\nنسخة: 12.7 نهائية\صنعت ب❤️ من ايطاليا./string>
     <string name="launch_error">Substratum ليس مثبتاً في جهازك حالياً</string>
     <string name="download">تنزيل</string>
-    <string name="attention">إنتباه</string>
+    <string name="attention">انتباه</string>
+    <string name="launchsub">استمتع بتجربتك في تغيير السمات !</string>
+    <string name="menu">القائمة</string>
+    <string name="menu0">افتح Substratum</string>
+    <string name="menu1">اخفاء تعليمات السمة</string>
+    <string name="menu2">اخفاء Victory من اللنشر</string>
+    <string name="menu3">الاسئلة الاكثر شيوعا</string>
+    <string name="menu4">تواصل معي</string>
+    <string name="h_faq">س:تطبيق معين يغلق باستمرار\nج:ازل و اعد تنزيل طبقة التطبيق!\n\nس:خطا "Res folder doesn\'t exist"\nج:اختر نسخة الاندرويد لديك من القائمة في الاعلى عندما تفتح السمة في Substratum.\n\nس:لا يمكن تنزيل سمة تطبيق تلغرام\nج:نزل سمة تطبيق تلغرام من مجموعتي في التلغرام.</string>
+    <string name="ok">حسنا</string>
+    <string name="hide_ok">نعم</string>
+    <string name="hide_text">سوف تحتاج الى ازالة التطبيق و اعادة تنزيله مرة اخرى حتى يظهر في اللنشر. هل تريد اخفاء التطبيق؟</string>
+    <string name="hide_no">لا</string>
+    <string name="hide_success">لقد تم اخفاء Victory بنجاح</string>
+    <string name="done">تم</string>
 </resources>
