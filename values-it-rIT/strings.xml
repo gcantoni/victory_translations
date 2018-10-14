@@ -23,10 +23,11 @@
     <string name="menu2">Nascondi Victory dal launcher</string>
     <string name="menu3">Domande frequenti</string>
     <string name="menu4">Contattami</string>
+    <string name="menu5">Lascia una recensione</string>
     <string name="h_faq">Q: App X continua ad arrestarsi\nA: Disinstalla ed installa di nuovo la sovrapposizione!\n\nQ: Errore cartella res non esiste\nA: Seleziona la tua versione Android nel menu in alto quando hai aperto il tema in Substratum.\n\nQ: La sovrapposizione di telegram non si applica\nA: Scarica la sovrapposizione di telegram dal mio gruppo di supporto.</string>
     <string name="ok">ok</string>
     <string name="hide_ok">Si</string>
-    <string name="hide_text">Dovrai disinstallare e installare nuovamente l\'app per mostrarla nel launcher. Vuoi nasconderla?</string>
+    <string name="hide_text">Dovrai disinstallare ed installare nuovamente l\'app per mostrarla nel launcher. Vuoi nasconderla?</string>
     <string name="hide_no">No</string>
     <string name="hide_success">Victory è stata nascosta con successo</string>
     <string name="done">Fatto</string>
