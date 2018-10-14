@@ -24,4 +24,5 @@
     <string name="hide_text">You will need to uninstall and install again the app for showing it in launcher. Do you want to hide it?</string>
     <string name="hide_no">No</string>
     <string name="hide_success">Victory has been successfully hidden</string>
+    <string name="done">Done</string>
 </resources>
